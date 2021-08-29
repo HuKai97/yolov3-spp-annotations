@@ -1,0 +1,8 @@
+这里存放VOC格式数据集
+VOC
+   -Annotations: 数据集所有xml文件
+   -Images：数据集所有图片
+   -ImageSets: train.txt + val.txt + [test.txt]
+
+
+Pascal VOC2012 train/val数据集下载地址：http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
